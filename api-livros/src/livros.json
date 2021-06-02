@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "titulo": "Admirável Mundo Novo",
+        "descricao": "Narra a história de uma sociedade futurista, em que seus habitantes passam por um pré-condicionamento biológico e psicológico para que vivam em harmonia com as leis sociais e com um sistema de castas.",
+        "autor": "Aldous Huxley",
+        "anoPublicacao": 1932
+    },
+    {
+        "id": 2,
+        "titulo": "1984",
+        "descricao": "A história se passa no ano de 1984, em um futuro distópico onde o Estado impõe um regime extremamente totalitário para a sociedade, através da vigilância do Grande Irmão, imposta pelo partido (Ingsoc), onde ninguém escapa do seu poder.",
+        "autor": "George Orwell",
+        "anoPublicacao": 1949
+    },
+    {
+        "id": 3,
+        "titulo": "Laranja Mecânica",
+        "descricao": "Situado na sociedade inglesa de um futuro distópico, que tem uma cultura de extrema violência juvenil, onde um anti-herói adolescente dá uma narração em primeira pessoa sobre suas façanhas violentas e suas experiências com autoridades estaduais que possuem a intenção de reformá-lo.",
+        "autor": "Anthony Burgess",
+        "anoPublicacao": 1962
+    },
+    {
+        "id": 4,
+        "titulo": "Neuromancer",
+        "descricao": "Considerada a obra precursora do movimento cyberpunk e um clássico da ficção científica moderna, Neuromancer conta a história de Case, um cowboy do ciberespaço e hacker da matrix. Como punição por tentar enganar os patrões, seu sistema nervoso foi contaminado por uma toxina que o impede de entrar no mundo virtual.",
+        "autor": "William Gibson",
+        "anoPublicacao": 1984
+    }
+]
